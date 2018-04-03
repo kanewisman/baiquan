@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to website of kane.wisman
 
 You can use the [editor on GitHub](https://github.com/kanewisman/baiquan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
